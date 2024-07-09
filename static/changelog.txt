@@ -1,0 +1,9 @@
+<b>24.6.2024:</b> Keskiarvot - vuoden, kuukauden, viikon ja päivän
+<br>
+<b>26.6.2024:</b> Wifi-tikku vaihdettu toiseen RaspberryPi-laitteessa. Nyt tiedot siirtyvät luotettavammin tietokantaan? Joitakin kauneuskorjauksia.
+<br>
+<b>27.6.2024:</b> Aloituspäivä dynaamiseksi + tulosten haku (osittain kesken vielä!)
+<br>
+<b>28.6.2024:</b> Hakutoimintoa eteenpäin
+<br>
+<b>29.-30.6.2024:</b> Hakutoimintoon järjestys-valinta, ilmanpaineiden näyttäminen emojilla ensisijaisesti (tooltippinä näkee natiivin ja meren päällä -arvon), favicon lisätty
