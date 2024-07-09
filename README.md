@@ -5,8 +5,8 @@ Written with mostly PHP and Java. Measures enviroment values from outdoor and in
 1) Send Measurements JavaTool
 
 Running on Raspberry Pi 2 Model B. Mainly running hourly via cronjobs. 
-Project using DHT 11 sensor (in greenhouse) for temperature and humidity AND BMP280 (outdoor) for temperature and pressure.
-Sending data to API which adds measurement data to database (SQL).
+Project using DHT 11 sensor (in greenhouse) for temperature and humidity AND BMP280 (outdoor) for temperature and pressure. Fetching measurement values from Python scripts.
+Sending data to API which adds measurement data to database (SQL). 
 
 2) Project Greenhouse Website
 
